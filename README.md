@@ -73,7 +73,7 @@ sudo apt update && sudo apt install curl jq sed -y
 Run the following command to download, install, and set up the script:
 
 ```bash
-curl -o /usr/local/bin/openai.sh https://raw.githubusercontent.com/worthable/openai-terminal-assistant/master/openai.sh && chmod +x /usr/local/bin/openai.sh
+curl -o /usr/local/bin/openai https://raw.githubusercontent.com/worthable/openai-terminal-assistant/master/openai.sh && chmod +x /usr/local/bin/openai
 ```
 
 ### Configure OpenAI API Key
